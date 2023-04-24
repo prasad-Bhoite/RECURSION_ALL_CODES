@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 void subsequences(string str,string output,int i)
 {
     //base case
