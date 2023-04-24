@@ -5,7 +5,7 @@ using namespace std;
 
 int solve(vector<int>& arr,int target)
 {
-  //base case...
+  //base case....
   if(target == 0 )
   {
     return 0;
