@@ -1,5 +1,5 @@
 //Cut n Length Rod into the x,y,z parts...
-#include <iostream>
+#include<iostream>
 #include<vector>
 #include<limits.h>
 using namespace std;
